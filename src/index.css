@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Domine:wght@400..700&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+@import "tailwindcss";
+
+:root {
+  --brown-dark: #3E2723;
+  --brown-light: #5D4037;
+  
+  font-family: "Inter", sans-serif;
+  background: linear-gradient(135deg, var(--brown-dark), var(--brown-light));
+}
